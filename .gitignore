@@ -4,3 +4,4 @@
 *.Rproj
 app_key.txt
 shinyapps/
+linger-*.json
